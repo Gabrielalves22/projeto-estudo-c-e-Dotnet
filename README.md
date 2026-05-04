@@ -1,2 +1,2 @@
 # projeto-estudo-c-e-Dotnet
-somente para estudos
+somente para estudos, e nada mais alem do estudos
