@@ -1,0 +1,14 @@
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulao\obj\Debug\net10.0\Aulao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulao\obj\Debug\net10.0\Aulao.AssemblyInfoInputs.cache
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulao\obj\Debug\net10.0\Aulao.AssemblyInfo.cs
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulao\obj\Debug\net10.0\Aulao.csproj.CoreCompileInputs.cache
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulao\bin\Debug\net10.0\Aulao.exe
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulao\bin\Debug\net10.0\Aulao.deps.json
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulao\bin\Debug\net10.0\Aulao.runtimeconfig.json
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulao\bin\Debug\net10.0\Aulao.dll
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulao\bin\Debug\net10.0\Aulao.pdb
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulao\obj\Debug\net10.0\Aulao.dll
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulao\obj\Debug\net10.0\refint\Aulao.dll
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulao\obj\Debug\net10.0\Aulao.pdb
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulao\obj\Debug\net10.0\Aulao.genruntimeconfig.cache
+C:\Users\SEDUC\OneDrive\Área de Trabalho\Progamação\projeto-de-estudos C# e Dotnet\Aulao\obj\Debug\net10.0\ref\Aulao.dll
